@@ -1,2 +1,3 @@
-# rhodecode-ce-salt-formula
+# RhodeCode Community Edition SaltStack Formula
+
 SaltStack Formula for RhodeCode installation and configuration
